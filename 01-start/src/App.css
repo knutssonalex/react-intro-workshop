@@ -1,0 +1,33 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.stopwatch-display {
+  font-size: 3em;
+  margin-bottom: 20px;
+  font-family: 'Urbanist', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.control-buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+}
+
+.lap-list {
+  margin-top: 20px;
+}
+
+.lap-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.lap-list li {
+  font-size: 1.2em;
+  margin: 5px 0;
+}
